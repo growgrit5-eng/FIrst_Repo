@@ -164,7 +164,7 @@ function App() {
             <div className="text-4xl mb-5">💬</div>
 
             <h3 className="text-xl font-bold mb-2">
-              Need help?
+              Need our help?
             </h3>
 
             <p className="text-emerald-100 text-sm leading-6 mb-6">
