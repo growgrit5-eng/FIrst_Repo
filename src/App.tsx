@@ -115,7 +115,7 @@ function App() {
               </h1>
 
               <p className="text-xs text-slate-500">
-                Musa to Soko
+                Musa husband of Salimatou
               </p>
             </div>
           </div>
@@ -168,12 +168,11 @@ function App() {
             </p>
 
             <h2 className="text-4xl md:text-5xl font-bold leading-tight mb-5">
-              Connecting people to the support they need.
+              Umm Mujaahid.
             </h2>
 
             <p className="text-emerald-50 text-lg mb-8">
-              Access social protection programs, financial assistance,
-              community services, and opportunities in one place.
+              Kayfa Haaluki.
             </p>
 
             <div className="flex flex-wrap gap-4">
