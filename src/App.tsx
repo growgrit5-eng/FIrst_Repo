@@ -111,7 +111,7 @@ function App() {
 
             <div>
               <h1 className="font-bold text-lg">
-                Social Protection
+               DANNY SALLY
               </h1>
 
               <p className="text-xs text-slate-500">
